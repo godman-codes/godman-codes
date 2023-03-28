@@ -1,3 +1,4 @@
+<div color="white" background-color="black">
 <h1 align="center">Hi 👋, I'm Tobi</h1>
 <h3 align="center">A passionate Backend developer from Nigeria</h3>
 
@@ -36,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godman-codes&show_icons=true&locale=en" alt="godman-codes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godman-codes&" alt="godman-codes" /></p>
+  </div>
